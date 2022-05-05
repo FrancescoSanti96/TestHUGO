@@ -1,0 +1,26 @@
+[ {
+    "id": "1",
+    "attributes": {
+      "name": "Felpa"
+    }
+  },
+  {
+    "id": "2",
+    "attributes": {
+      "name": "Felpa coppia"
+    }
+  },
+  {
+    "id": "3",
+    "attributes": {
+      "name": "Felpa saldo"
+    }
+  },
+  {
+    "id": "4",
+    "attributes": {
+      "name": "Felpa larga"
+    }
+  }
+  
+]

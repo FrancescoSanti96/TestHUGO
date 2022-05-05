@@ -1,0 +1,15 @@
+Info utili:
+
+Lo script generateMD.js si esegue con il comando:
+
+    node generateMD.js
+
+Serve per generare i file .md per popolare la cartella content/products in Hugo project necessaria per il routing del prodotto singolo.
+
+
+Hugo serve per generare siti statici, nellos studio e nelle prove effettuate è sorto infatti il problema che non è ottimale con utilizzo medio/spinto di Api, 
+non potendo generare pagine in automatico dopo una chiamata API perchè essendo statico richiede i file .md 
+presenti dentro la cartella dentro il content che poi perette il routing in automatico del prodotto singolo.
+
+Per avviare Hugo:
+hugo serve -D -> avviare il progetto con i .md visualizzati anche in draft true.
